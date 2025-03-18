@@ -1,5 +1,8 @@
-# Bias
+# Algorithmic Fairness in GNNs
 This Repo contains different Bias and Mitigation Strategies on GNN models 
+
+## Publication:
+[A Comprehensive Strategy to Bias and Mitigation](https://ceur-ws.org/Vol-3839/paper1.pdf)
 
 ## Dataset:
 [Adult Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
